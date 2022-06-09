@@ -3,3 +3,7 @@ LISTA DE MERCADO
 . ginebra
 . arroz
 .panela
+.ron
+.tonica
+.limon
+.azucar
